@@ -229,7 +229,7 @@ OL,Jerald Hawkins,25,2016,67,60,86,81,78,72,0.7,4
 OL,Chuks Okorafor,21,2018,60,60,60,60,60,60,0.9,4
 OL,Alejandro Villanueva,30,2014,78,87,74,86,79,79,6.0,4
 K,Jordan Berry,27,2015,79,65,90,91,84,59,1.9,1
-QB,Austin Drolett,23,2017,182,75,99,75,72,82,0.7,4
+QB,Austin Drolett,23,2017,800,75,99,75,72,82,0.7,4
 QB,Ben Roethlisberger,36,2004,88,95,95,95,86,71,21.9,4
 QB,Mason Rudolph,23,2018,72,61,96,90,80,60,1.0,4
 RB,James Conner,23,2017,73,72,84,84,85,65,0.8,4
